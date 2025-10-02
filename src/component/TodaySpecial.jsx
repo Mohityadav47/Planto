@@ -21,7 +21,7 @@ const TodaySpecial=(props)=>{
 
                 <div className="d-none d-lg-block col-lg-6 text-end">
                     <img className="img-fluid" src={props.TodaySpecialImg} alt="" />
-                    <img className="img-fluid TodaySpecialTomato" src={props.TodaySpecialTomato} alt="" />
+             
                 </div>
             </div>
         </section>
