@@ -28,7 +28,7 @@ const App= ()=>{
                 carouselPara: "WELCOME TO PLANTO",
                 carouselh1: "FRESH PLANTS",
                 carouselbtn: "ORDER NOW",
-                carouselImg: "/Image/Illustration/ho.webp~"
+                carouselImg: "/Image/Illustration/ho.webp"
             },
             {
                 active:"carousel-item ",
